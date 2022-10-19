@@ -1,0 +1,17 @@
+body {
+  background-color: #82A4E8;
+}
+
+#logo {
+  height: 150px;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+}
+
+li {
+  display: inline-block;
+  margin: 0 10px 0 30px;
+}
